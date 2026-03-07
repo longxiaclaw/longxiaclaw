@@ -1,0 +1,14 @@
+.longxia_venv/
+daemon/
+logs/
+agent_workspace/
+__pycache__/
+*.pyc
+.env
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.coverage
+.mypy_cache/
+.DS_Store
